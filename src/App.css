@@ -1,0 +1,121 @@
+
+.App {
+  text-transform: uppercase;
+  text-align: center;
+  background-image: url("C:\Users\prvbs .Rakesh\OneDrive\Documents\GitHub\album-collection-react\img\cosmic.jpg");
+  background-repeat:inherit;
+  border-radius: 20%;
+  margin: 5em;
+  padding: 5em;
+  background-color: #ccc;
+  
+}
+.App:hover{
+  box-shadow: 0px 0px 0px 30px rgb(85, 85, 218)
+}
+
+.album-form{
+  margin: 1em;
+  padding: 1em;
+  text-align: center;
+  text-shadow: #d65454;
+  background-color: rgb(233, 233, 50);
+  border-radius: 50%;
+}
+.album-list {
+  text-align: center;
+  display: inline-block;
+  width: 60%;
+  margin: 2%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10em;
+  box-shadow: 0 2px 3px #ccc;
+  background-color: rgb(43, 44, 44);
+  scroll-margin: 5%;
+}
+
+.make1{
+  margin: 5vh;
+  padding: 5vh;
+  
+}
+make2{
+  margin: 10px;
+  padding: 0%;
+  
+
+}
+
+
+button {
+  margin-left: 10px;
+
+}
+.do{
+  
+  background-color: antiquewhite;
+  
+}
+.come{
+  text-align: center;
+  position: relative;
+  
+  
+}
+.come:hover{
+  
+  color: antiquewhite;
+  background-color: rgb(127, 127, 202);
+}
+.do:hover{
+  
+ color: antiquewhite;
+  background-color: rgb(127, 127, 202);
+}
+.make4{
+  font-size: medium;
+  margin: 0.5em;
+  padding: 3em;
+  height: 5em;
+  text-align: center;
+  border-radius: 20px 50px 20px 50px;
+  text-align: center;
+  background-color: rgb(212, 40, 40);
+  border-color: rgb(63, 7, 116);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.mark{
+  width: 60%;
+  display: grid;
+  vertical-align:bottom;
+  margin: auto;
+  position: relative;
+  
+
+}
+.mark1{
+  width: 60%;
+  display: inline-block;
+  vertical-align: bottom;
+  margin: auto;
+  position: relative ;
+  
+  
+}
+.mark.make1:hover{
+  
+  border-radius: 10%;
+  border-color: blueviolet;
+
+}
+.make3{
+ color: brown;
+}
+.place{
+  float: center;
+  clear: both;
+  color: rgb(6, 98, 110);
+  font-family: monospace;
+  font-style: italic;
+}
